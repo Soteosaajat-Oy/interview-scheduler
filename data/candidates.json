@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1754774822320",
+    "fullName": "Anura Damayantha",
+    "email": "anura.icon.fi@gmail.com",
+    "phone": "0417285547",
+    "timezone": "Europe/Helsinki",
+    "experience": "",
+    "motivation": "",
+    "additionalNotes": "",
+    "selectedSlots": [
+      "2025-08-12-16:00"
+    ],
+    "createdAt": "2025-08-09T21:27:02.320Z"
+  },
+  {
+    "id": "1754775004281",
+    "fullName": "Anu Damayantha",
+    "email": "anura.icon.fiR@gmail.com",
+    "phone": "0417285547",
+    "timezone": "Europe/Helsinki",
+    "experience": "S",
+    "motivation": "",
+    "additionalNotes": "",
+    "selectedSlots": [
+      "2025-08-12-16:15"
+    ],
+    "createdAt": "2025-08-09T21:30:04.281Z"
+  },
+  {
+    "id": "1754775062047",
+    "fullName": "Anu Damayantha",
+    "email": "Eanura.icon.fi@gmail.com",
+    "phone": "0417285547",
+    "timezone": "Europe/Helsinki",
+    "experience": "",
+    "motivation": "",
+    "additionalNotes": "",
+    "selectedSlots": [
+      "2025-08-16-17:30"
+    ],
+    "createdAt": "2025-08-09T21:31:02.047Z"
+  }
+]
